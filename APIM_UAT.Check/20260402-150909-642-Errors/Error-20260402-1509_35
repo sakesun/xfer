@@ -1,0 +1,10 @@
+{
+  "error": {
+    "code": "-26",
+    "message": "Threat detected (Protect Against Message Replay: Request X-Client-Transaction-DateTime has exceeded 120 seconds limit with server time)",
+    "messageTH": "",
+    "serverDateTime": "2026-04-02T15:09:12.793+07:00",
+    "clientTransactionID": "1ac47fda-25d7-4697-b00b-6f7122f3f1bb",
+    "serverTransactionID": "5674317e-ae3c-4f85-8fd0-7afb0a1080b9"
+  }
+}

@@ -1,0 +1,22 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1775121170326,348,Call API,400,,GetIndividual 1-1,text,false,,1340,653,1,6,https://sandbox.api.krungsri.net/bay/scuda/individual/get,348,0,26
+1775121170334,415,Call API,400,,GetJuristic 5-1,text,false,,1340,598,1,5,https://sandbox.api.krungsri.net/bay/scuda/juristic/get,415,0,25
+1775121170469,376,Call API,400,,UpdateJuristic 8-1,text,false,,1340,2844,1,6,https://sandbox.api.krungsri.net/bay/scuda/juristic/update,376,0,24
+1775121170629,269,Call API,400,,CreateIndividual 3-1,text,false,,1340,5383,1,5,https://sandbox.api.krungsri.net/bay/scuda/individual/create,269,0,30
+1775121170413,605,Call API,400,,SearchIndividual 2-1,text,false,,727,460,1,5,https://sandbox.api.krungsri.net/bay/scuda/individual/search,605,0,27
+1775121170630,496,Call API,400,,SearchJoint 10-1,text,false,,727,457,1,6,https://sandbox.api.krungsri.net/bay/scuda/joint/search,496,0,24
+1775121170783,371,Call API,400,,UpdateIndividual 4-1,text,false,,1352,2523,1,5,https://sandbox.api.krungsri.net/bay/scuda/individual/update,371,0,25
+1775121170794,471,Call API,400,,GetJoint 9-1,text,false,,1340,595,1,4,https://sandbox.api.krungsri.net/bay/scuda/joint/get,471,0,27
+1775121171039,229,Call API,400,,SearchJuristic 6-1,text,false,,727,468,1,4,https://sandbox.api.krungsri.net/bay/scuda/juristic/search,229,0,31
+1775121170904,364,Call API,400,,CreateIndividual 3-1,text,false,,1340,5409,1,4,https://sandbox.api.krungsri.net/bay/scuda/individual/create,364,0,0
+1775121171103,417,Call API,400,,CreateJuristic 7-1,text,false,,1340,4832,1,3,https://sandbox.api.krungsri.net/bay/scuda/juristic/create,417,0,25
+1775121171454,78,Call API,400,,SearchIndividual 2-2,text,false,,1049,466,1,2,https://sandbox.api.krungsri.net/bay/scuda/individual/search,78,0,11
+1775121171277,363,Call API,400,,CreateIndividual 3-1,text,false,,1340,5073,1,2,https://sandbox.api.krungsri.net/bay/scuda/individual/create,363,0,0
+1775121171645,163,Call API,400,,CreateIndividual 3-1,text,false,,1340,4885,1,5,https://sandbox.api.krungsri.net/bay/scuda/individual/create,162,0,0
+1775121171692,271,Call API,400,,GetIndividual 1-2,text,false,,1340,653,1,6,https://sandbox.api.krungsri.net/bay/scuda/individual/get,271,0,12
+1775121171818,154,Call API,400,,CreateIndividual 3-1,text,false,,1340,5562,2,5,https://sandbox.api.krungsri.net/bay/scuda/individual/create,153,0,0
+1775121171596,387,Call API,400,,GetJuristic 5-2,text,false,,1340,598,1,5,https://sandbox.api.krungsri.net/bay/scuda/juristic/get,387,0,15
+1775121171672,364,Call API,400,,CreateJuristic 7-2,text,false,,1340,5011,1,5,https://sandbox.api.krungsri.net/bay/scuda/juristic/create,364,0,14
+1775121171888,205,Call API,400,,CreateIndividual 3-2,text,false,,1340,5136,2,7,https://sandbox.api.krungsri.net/bay/scuda/individual/create,205,0,22
+1775121171976,162,Call API,400,,CreateIndividual 3-1,text,false,,1340,5093,2,7,https://sandbox.api.krungsri.net/bay/scuda/individual/create,162,0,0
+1775121171712,438,Call API,400,,SearchJuristic 6-2,text,false,,727,464,1,7,https://sandbox.api.krungsri.net/bay/scuda/juristic/search,438,0,12

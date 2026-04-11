@@ -1,0 +1,17 @@
+{
+  "error" : {
+    "code" : "I10002",
+    "message" : "Failed to proceed",
+    "detailedErrors" : [ {
+      "messageLanguage" : "EN",
+      "message" : "Failed to proceed",
+      "originalErrorCode" : "I10002",
+      "originalErrorDesc" : "The selected value of 'X-Client-App-ID' is not valid. Please choose from the available options."
+    }, {
+      "messageLanguage" : "TH",
+      "message" : "ไม่สามารถดำเนินการต่อได้",
+      "originalErrorCode" : "I10002",
+      "originalErrorDesc" : "ระบุค่า 'X-Client-App-ID' ไม่ถูกต้อง กรุณาเลือกค่าจากรายการที่มีอยู่"
+    } ]
+  }
+}

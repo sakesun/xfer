@@ -1,0 +1,10 @@
+{
+  "error": {
+    "code": "-6",
+    "message": "X-Client-Transaction-ID does not match UUID format",
+    "messageTH": "",
+    "serverDateTime": "2026-04-02T14:04:41.298+07:00",
+    "clientTransactionID": "9891561ABCFDGE",
+    "serverTransactionID": "b9231125-f960-4d3c-9597-ba41ad9c2ac8"
+  }
+}

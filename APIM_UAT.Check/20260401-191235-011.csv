@@ -1,0 +1,23 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1775045555705,19,JSR223 Sampler,200,OK,GetIndividual 1-1,text,true,,0,0,1,1,null,0,0,0
+1775045555791,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-1,text,false,,1291,0,1,1,null,0,0,0
+1775045556762,0,JSR223 Sampler,200,OK,GetIndividual 1-2,text,true,,0,0,1,1,null,0,0,0
+1775045556765,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-2,text,false,,1291,0,1,1,null,0,0,0
+1775045557525,1,JSR223 Sampler,200,OK,GetIndividual 1-3,text,true,,0,0,1,1,null,0,0,0
+1775045557527,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-3,text,false,,1291,0,1,1,null,0,0,0
+1775045558860,1,JSR223 Sampler,200,OK,GetIndividual 1-4,text,true,,0,0,1,1,null,0,0,0
+1775045558861,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-4,text,false,,1291,0,1,1,null,0,0,0
+1775045559120,0,JSR223 Sampler,200,OK,GetIndividual 1-5,text,true,,0,0,1,1,null,0,0,0
+1775045559122,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-5,text,false,,1291,0,1,1,null,0,0,0
+1775045560817,1,JSR223 Sampler,200,OK,GetIndividual 1-6,text,true,,0,0,1,1,null,0,0,0
+1775045560820,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-6,text,false,,1291,0,1,1,null,0,0,0
+1775045561956,1,JSR223 Sampler,200,OK,GetIndividual 1-7,text,true,,0,0,1,1,null,0,0,0
+1775045561959,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-7,text,false,,1291,0,1,1,null,0,0,0
+1775045562640,0,JSR223 Sampler,200,OK,GetIndividual 1-8,text,true,,0,0,1,1,null,0,0,0
+1775045562641,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-8,text,false,,1291,0,1,1,null,0,0,0
+1775045563090,1,JSR223 Sampler,200,OK,GetIndividual 1-9,text,true,,0,0,1,1,null,0,0,0
+1775045563092,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-9,text,false,,1291,0,1,1,null,0,0,0
+1775045564318,0,JSR223 Sampler,200,OK,GetIndividual 1-10,text,true,,0,0,1,1,null,0,0,0
+1775045564319,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-10,text,false,,1291,0,1,1,null,0,0,0
+1775045565945,1,JSR223 Sampler,200,OK,GetIndividual 1-11,text,true,,0,0,1,1,null,0,0,0
+1775045565947,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: ${authprotocol},GetIndividual 1-11,text,false,,1291,0,1,1,null,0,0,0
