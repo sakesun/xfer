@@ -1,0 +1,17 @@
+{
+  "error" : {
+    "code" : "E10020",
+    "message" : "ERROR",
+    "detailedErrors" : [ {
+      "messageLanguage" : "EN",
+      "message" : "Failed to proceed",
+      "originalErrorCode" : "E10020",
+      "originalErrorDesc" : "Data Conversion Error - Invalid date format."
+    }, {
+      "messageLanguage" : "TH",
+      "message" : "ไม่สามารถดำเนินการต่อได้",
+      "originalErrorCode" : "E10020",
+      "originalErrorDesc" : "Data Conversion Error - Invalid date format."
+    } ]
+  }
+}
