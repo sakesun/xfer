@@ -1,0 +1,115 @@
+{
+    "relatedProfileCount": 2,
+    "jointNameEn": "OICJOINT",
+    "jointNameTh": "อฟหนึ่งสโม๊กเทสสเอ",
+    "jointType": "JOINT_INDIVIDUAL",
+    "referenceNumber": "",
+    "applicationName": "Province Cheque System",
+    "legacyDeletedDateTime": "2023-02-22",
+    "bayOrSubsidiaryCustomerCode": "BAY",
+    "customerClassificationCode": "OTHER_PARTY",
+    "legacyCustomerType": "",
+    "customerStatusCode": "Y",
+    "secInvestorTypeEffectiveDate": "2024-01-01",
+    "secInvestorTypeReviewDate": "2024-01-01",
+    "nationalityCode": "TH",
+    "originSystem": "0801",
+    "originSystemReference": "",
+    "recordStatusCode": "A",
+    "createdByUserId": "oicapi.test",
+    "createdByEmployeeCustomer": "EMP",
+    "createdAtBranchDepartmentId": "BAY TH",
+    "addedDate": "2023-11-17T14:08:53.647+00:00",
+    "addresses": [
+        {
+            "addressType": "REGISTERED",
+            "kseFlag": "Y",
+            "addressStructuredFlag": "N",
+            "primaryFlag": "Y",
+            "addressNumber": "12345",
+            "moo": "7",
+            "soi": "Supalai 2",
+            "road": "Rama 3",
+            "room": "36",
+            "floor": "3",
+            "addressLine1": "Line 2",
+            "addressLine2": "Line 4",
+            "addressLine3": "LPN Park Riverside",
+            "buildingName": "",
+            "subDistrictCode": "100109",
+            "districtCode": "100100",
+            "state": "",
+            "provinceCode": "100000",
+            "postalCode": "10010901",
+            "countryCode": "TH"
+        }
+    ],
+    "contactPoints": [
+        {
+            "contactPointType": "EMAIL",
+            "contactPointPurposeCode": "BUSINESS",
+            "emailAddress": "Test@test.com",
+            "primaryFlag": "Y",
+            "verificationFlag": "Y",
+            "kseFlag": "Y",
+            "doNotContactFlag": "N",
+            "doNotContactReason": ""
+        },
+        {
+            "contactPointType": "PHONE",
+            "contactPointPurposeCode": "BUSINESS",
+            "phoneType": "MOBILE",
+            "phoneExtension": "",
+            "phoneCountryCode": "204",
+            "phoneNumber": "0812345987",
+            "primaryFlag": "Y",
+            "verificationFlag": "Y",
+            "kseFlag": "Y",
+            "doNotContactFlag": "N",
+            "doNotContactReason": ""
+        },
+        {
+            "contactPointType": "WEB",
+            "contactPointPurposeCode": "BUSINESS",
+            "webType": "HOMEPAGE",
+            "webUrl": "https://fa-ewoc-dev2-saasfaprod1.fa.ocs.oraclecloud.com/",
+            "primaryFlag": "Y",
+            "verificationFlag": "Y",
+            "kseFlag": "Y",
+            "doNotContactFlag": "N",
+            "doNotContactReason": ""
+        },
+        {
+            "contactPointType": "INSTANT_MESSAGING",
+            "contactPointPurposeCode": "BUSINESS",
+            "socialNetworkName": "LINE",
+            "socialNetworkId": "abc",
+            "primaryFlag": "Y",
+            "verificationFlag": "Y",
+            "kseFlag": "Y",
+            "doNotContactFlag": "N",
+            "doNotContactReason": ""
+        }
+    ],
+    "relationships": [
+        {
+            "objectNumber": "80000185",
+            "jointOrderNumber": 1
+        },
+        {
+            "objectNumber": "80000187",
+            "jointOrderNumber": 2
+        }
+    ],
+    "productHoldings": [
+        {
+            "payrollFlag": "Y",
+            "accountProductType": "ST_THB",
+            "accountNumber": "5679100006",
+            "legacyAccountStatusCode": "Active",
+            "customerType": "0100",
+            "accountRelationshipType": "IND",
+            "ownerOrderNumber": 2
+        }
+    ]
+}
