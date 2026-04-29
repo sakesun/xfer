@@ -1,0 +1,13 @@
+{
+  "type" : "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.5.1",
+  "title" : "Internal Server Error",
+  "detail" : "faultName: {{http://xmlns.oracle.com/cloud/adapter/atpdatabase/fetchValidationMessage_REQUEST}serviceInvocationError} cause: {Could not create/access the TopLink Session.\nThis session is used to connect to the datastore.\nCaused by java.sql.SQLException: UCP-0: Unable to start the Universal Connection Pool.\n}",
+  "o:errorCode" : "500",
+  "o:errorDetails" : [ {
+    "type" : "UnMappedFault:",
+    "instance" : "NA",
+    "title" : "faultName: {{http://xmlns.oracle.com/cloud/adapter/atpdatabase/fetchValidationMessage_REQUEST}serviceInvocationError} cause: {Could not create/access the TopLink Session.\nThis session is used to connect to the datastore.\nCaused by java.sql.SQLException: UCP-0: Unable to start the Universal Connection Pool.\n}",
+    "o:errorPath" : "<![CDATA[<location xmlns=\"http://schemas.xmlsoap.org/soap/envelope/\">orcldatabase-adapters-86cc448c75-lssmb</location>\n]]>",
+    "o:errorCode" : ""
+  } ]
+}

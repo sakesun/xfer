@@ -1,0 +1,17 @@
+{
+  "error" : {
+    "code" : "I10027",
+    "message" : "ERROR",
+    "detailedErrors" : [ {
+      "messageLanguage" : "EN",
+      "message" : "Failed to proceed",
+      "originalErrorCode" : "I10027",
+      "originalErrorDesc" : "'Soi' must not start with  ตรอก or ซอก or ซอย or ซ."
+    }, {
+      "messageLanguage" : "TH",
+      "message" : "ไม่สามารถดำเนินการต่อได้",
+      "originalErrorCode" : "I10027",
+      "originalErrorDesc" : "'ซอย' ต้องไม่ขึ้นต้นด้วย  ตรอก or ซอก or ซอย หรือ ซ."
+    } ]
+  }
+}

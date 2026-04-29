@@ -1,0 +1,17 @@
+{
+  "error" : {
+    "code" : "E10019",
+    "message" : "ERROR",
+    "detailedErrors" : [ {
+      "messageLanguage" : "EN",
+      "message" : "Failed to proceed",
+      "originalErrorCode" : "E10019",
+      "originalErrorDesc" : "Data Integrity Violation – The Payload must not contain more than one record with the same Account Number, Account Product Type,Owner Order No, Record Status for a given record. Each Account Number, Account Product Type,Owner Order No, Record Status must be unique within its associated record."
+    }, {
+      "messageLanguage" : "TH",
+      "message" : "ไม่สามารถดำเนินการต่อได้",
+      "originalErrorCode" : "E10019",
+      "originalErrorDesc" : "ข้อมูลไม่ถูกต้อง – Payload ต้องไม่พบข้อมูล Account Number, Account Product Type,Owner Order No, Record Status ซ้ำกันภายใน record โดย Account Number, Account Product Type,Owner Order No, Record Status ต้องมีค่าไม่ซ้ำในแต่ละ record\n"
+    } ]
+  }
+}

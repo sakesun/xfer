@@ -1,0 +1,17 @@
+{
+  "error" : {
+    "code" : "E20015",
+    "message" : "ERROR",
+    "detailedErrors" : [ {
+      "messageLanguage" : "EN",
+      "message" : "Duplicate Record",
+      "originalErrorCode" : "E20015",
+      "originalErrorDesc" : "Duplicate record detected. The data you are trying to create already exists."
+    }, {
+      "messageLanguage" : "TH",
+      "message" : "ตรวจพบข้อมูลซ้ำ",
+      "originalErrorCode" : "E20015",
+      "originalErrorDesc" : "ตรวจพบข้อมูลซ้ำ ข้อมูลที่คุณพยายามสร้างมีอยู่แล้วในระบบ"
+    } ]
+  }
+}

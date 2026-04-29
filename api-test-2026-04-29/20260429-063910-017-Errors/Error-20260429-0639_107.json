@@ -1,0 +1,17 @@
+{
+  "error" : {
+    "code" : "I10027",
+    "message" : "ERROR",
+    "detailedErrors" : [ {
+      "messageLanguage" : "EN",
+      "message" : "Failed to proceed",
+      "originalErrorCode" : "I10027",
+      "originalErrorDesc" : "'Road' must not start with  ถนน or ถ."
+    }, {
+      "messageLanguage" : "TH",
+      "message" : "ไม่สามารถดำเนินการต่อได้",
+      "originalErrorCode" : "I10027",
+      "originalErrorDesc" : "'ถนน' ต้องไม่ขึ้นต้นด้วย  ถนน หรือ ถ."
+    } ]
+  }
+}

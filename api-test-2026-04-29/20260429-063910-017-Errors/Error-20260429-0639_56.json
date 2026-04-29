@@ -1,0 +1,17 @@
+{
+  "error" : {
+    "code" : "",
+    "message" : "General Validation Error",
+    "detailedErrors" : [ {
+      "messageLanguage" : "EN",
+      "message" : "General Validation Error",
+      "originalErrorCode" : "",
+      "originalErrorDesc" : "Stored procedure invocation error.\nError while trying to prepare and execute the BAY_BICCDB.CONTACT_CRUD_PKG.CONTACT_UPDATE_PRC API.\nAn error occurred while preparing and executing the BAY_BICCDB.CONTACT_CRUD_PKG.CONTACT_UPDATE_PRC API. Cause: java.sql.SQLException: ORA-06502: PL/SQL: value or conversion error: character string buffer too small\nORA-06512: at \"BAY_BICCDB.CONTACT_CRUD_PKG\", line 4480\nORA-00001: unique constraint (BAY_BICCDB.UQ_OWNERNO_ACCOUNTNUMBER) violated on table BAY_BICCDB.PRODUCT_HOLDING columns (SYS_NC00033$)\nORA-03301: (ORA-00001 details) row with column values (SYS_NC00033$:'10002775456236-CA_FCD-1-A') already exists\nORA-06512: at \"BAY_BICCDB.CONTACT_CRUD_PKG\", line 3325\nORA-06512: at line 1\n\nhttps://docs.oracle.com/error-help/db/ora-06502/\n"
+    }, {
+      "messageLanguage" : "TH",
+      "message" : "General Validation Error",
+      "originalErrorCode" : "",
+      "originalErrorDesc" : "Stored procedure invocation error.\nError while trying to prepare and execute the BAY_BICCDB.CONTACT_CRUD_PKG.CONTACT_UPDATE_PRC API.\nAn error occurred while preparing and executing the BAY_BICCDB.CONTACT_CRUD_PKG.CONTACT_UPDATE_PRC API. Cause: java.sql.SQLException: ORA-06502: PL/SQL: value or conversion error: character string buffer too small\nORA-06512: at \"BAY_BICCDB.CONTACT_CRUD_PKG\", line 4480\nORA-00001: unique constraint (BAY_BICCDB.UQ_OWNERNO_ACCOUNTNUMBER) violated on table BAY_BICCDB.PRODUCT_HOLDING columns (SYS_NC00033$)\nORA-03301: (ORA-00001 details) row with column values (SYS_NC00033$:'10002775456236-CA_FCD-1-A') already exists\nORA-06512: at \"BAY_BICCDB.CONTACT_CRUD_PKG\", line 3325\nORA-06512: at line 1\n\nhttps://docs.oracle.com/error-help/db/ora-06502/\n"
+    } ]
+  }
+}

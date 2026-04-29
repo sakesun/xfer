@@ -1,0 +1,17 @@
+{
+  "error" : {
+    "code" : "",
+    "message" : "ERROR",
+    "detailedErrors" : [ {
+      "messageLanguage" : "EN",
+      "message" : "General Validation Error",
+      "originalErrorCode" : "",
+      "originalErrorDesc" : "Could not create/access the TopLink Session.\nThis session is used to connect to the datastore.\nCaused by java.sql.SQLException: UCP-0: Unable to start the Universal Connection Pool.\n"
+    }, {
+      "messageLanguage" : "TH",
+      "message" : "General Validation Error",
+      "originalErrorCode" : "",
+      "originalErrorDesc" : "Could not create/access the TopLink Session.\nThis session is used to connect to the datastore.\nCaused by java.sql.SQLException: UCP-0: Unable to start the Universal Connection Pool.\n"
+    } ]
+  }
+}

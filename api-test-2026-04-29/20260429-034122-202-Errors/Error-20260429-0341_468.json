@@ -1,0 +1,17 @@
+{
+  "error" : {
+    "code" : "",
+    "message" : "ERROR",
+    "detailedErrors" : [ {
+      "messageLanguage" : "EN",
+      "message" : "General Validation Error",
+      "originalErrorCode" : "",
+      "originalErrorDesc" : "Interaction processing error.\nError while processing the execution of the BAY_BICCDB.CONTACT_CRUD_PKG.CONTACT_CREATE_PRC API interaction.\nAn error occurred while processing the interaction for invoking the BAY_BICCDB.CONTACT_CRUD_PKG.CONTACT_CREATE_PRC API. Cause: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.6.9.v20200130-0143b822bc): org.eclipse.persistence.exceptions.DatabaseException\nInternal Exception: java.sql.SQLException: UCP-29: Failed to get a connection\nError Code: 29\n"
+    }, {
+      "messageLanguage" : "TH",
+      "message" : "General Validation Error",
+      "originalErrorCode" : "",
+      "originalErrorDesc" : "Interaction processing error.\nError while processing the execution of the BAY_BICCDB.CONTACT_CRUD_PKG.CONTACT_CREATE_PRC API interaction.\nAn error occurred while processing the interaction for invoking the BAY_BICCDB.CONTACT_CRUD_PKG.CONTACT_CREATE_PRC API. Cause: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.6.9.v20200130-0143b822bc): org.eclipse.persistence.exceptions.DatabaseException\nInternal Exception: java.sql.SQLException: UCP-29: Failed to get a connection\nError Code: 29\n"
+    } ]
+  }
+}

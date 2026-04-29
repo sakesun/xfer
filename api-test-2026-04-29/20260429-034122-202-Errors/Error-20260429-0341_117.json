@@ -1,0 +1,17 @@
+{
+  "error" : {
+    "code" : "I10001",
+    "message" : "ERROR",
+    "detailedErrors" : [ {
+      "messageLanguage" : "EN",
+      "message" : "Failed to proceed",
+      "originalErrorCode" : "I10001",
+      "originalErrorDesc" : "'Postal Code' is required."
+    }, {
+      "messageLanguage" : "TH",
+      "message" : "ไม่สามารถดำเนินการต่อได้",
+      "originalErrorCode" : "I10001",
+      "originalErrorDesc" : "กรุณากรอก 'รหัสไปรษณีย์' ให้ครบถ้วน"
+    } ]
+  }
+}
